@@ -7,15 +7,6 @@ Frontend engineering and making powerful, intuitive web apps are two of my favor
 
 
 <h3 align="left">Connect with me:</h3>
-### Hi there 👋, Fatima Naz
-#### Software Engineer
-Frontend engineering and making powerful, intuitive web apps are two of my favorite things to do. Here at BloomTech, where I am a student, we focus heavily on innovation, problem-solving, and coding. My experience as a project manager allows me to see projects through from beginning to end with ease.
-
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on developing a React web App 
-- 📫 How to reach me: naz781@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/naz781)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/fatima_naz_a51c3b5fa73475)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/fatima-naz-7927a77a/)  
 
