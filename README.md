@@ -5,7 +5,7 @@
 
 Frontend engineering and making powerful, intuitive web apps are two of my favorite things to do. Here at BloomTech, where I am a student, we focus heavily on innovation, problem-solving, and coding. My experience as a project manager allows me to see projects through from beginning to end with ease.
 
-###Skills and Experience
+### Skills and Experience
 * ⚛️ React js
 * 💻 HTML, CSS, jS
 * 
