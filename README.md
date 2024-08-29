@@ -18,7 +18,7 @@ Frontend engineering and making powerful, intuitive web apps are two of my favor
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naz781)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naz781)](https://github.com/anuraghazra/github-readme-stats)!-->
 <!--
 **naz781/naz781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
