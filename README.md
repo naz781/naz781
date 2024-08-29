@@ -8,7 +8,7 @@ Frontend engineering and making powerful, intuitive web apps are two of my favor
 ### Skills and Experience
 * ⚛️ React js
 * 💻 HTML, CSS, jS
-* 
+* 👩‍💼Project Manager
 
 - 🔭 I’m currently working on developing a React web App 
 - 📫 How to reach me: naz781@gmail.com 
