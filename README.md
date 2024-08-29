@@ -1,6 +1,4 @@
 
-![Beige and White Modern LinkedIn Background Photo](https://github.com/user-attachments/assets/d5112faa-37fe-4adc-87e0-168dc2cf0ddd)
-
 ### Hi there 👋, Fatima Naz
 #### Software Engineer
 Frontend engineering and making powerful, intuitive web apps are two of my favorite things to do. Here at BloomTech, where I am a student, we focus heavily on innovation, problem-solving, and coding. My experience as a project manager allows me to see projects through from beginning to end with ease.
