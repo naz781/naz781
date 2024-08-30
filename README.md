@@ -1,10 +1,9 @@
 
 ## Hi there 👋,I am Fatima Naz
 ### Software Engineer
+
 ![Design and Development](https://github.com/naz781/naz781/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
-
-Frontend engineering and making powerful, intuitive web apps are two of my favorite things to do. Here at BloomTech, where I am a student, we focus heavily on innovation, problem-solving, and coding. My experience as a project manager allows me to see projects through from beginning to end with ease.
-
+Passionate Frontend Software Engineer with hands-on experience crafting stunning, user-friendly web apps. Expert in React.js, JavaScript (ES6+), HTML5, and CSS3, I bring websites to life with dynamic features and smooth interactions. From building interactive forms and calculators to creating engaging e-commerce pages, I love turning ideas into intuitive, beautiful designs. With a knack for solving problems and working in Agile teams, I'm eager to contribute my skills and creativity to new and exciting projects.
 
 <h3 align="left">Connect with me:</h3>
 
