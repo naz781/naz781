@@ -10,7 +10,7 @@ Frontend Software Engineer with hands-on experience in developing responsive and
 
 ### Connect with me:
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/naz781)  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/naz781) 
 [![Dev.to](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg)](https://dev.to/fatima_naz_a51c3b5fa73475)  
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/fatima-naz-7927a77a/)
 
