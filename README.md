@@ -17,9 +17,13 @@ Passionate Frontend Software Engineer with hands-on experience crafting stunning
 * 💻 HTML5, CSS3, JavaScript (ES6+)
 * 👩‍💼 Project Management
 
+### Resume
+*📜[resume](https://docs.google.com/document/d/1z4sExTpK4Yg0PHvaVr0TYOJrp9Fzz6Ubu51GY3hs6AU/edit?usp=sharing)
+
 ### How to reach me
 
 📫 [naz781@gmail.com](mailto:naz781@gmail.com)
+
 
 <!-- Uncomment if you want to display GitHub stats -->
 <!--
