@@ -18,7 +18,7 @@ Passionate Frontend Software Engineer with hands-on experience crafting stunning
 * 👩‍💼 Project Management
 
 ### Resume
-*📜[resume](https://docs.google.com/document/d/1z4sExTpK4Yg0PHvaVr0TYOJrp9Fzz6Ubu51GY3hs6AU/edit?usp=sharing)
+*📜[resume]([https://docs.google.com/document/d/1z4sExTpK4Yg0PHvaVr0TYOJrp9Fzz6Ubu51GY3hs6AU/edit?usp=sharing](https://docs.google.com/document/d/1z4sExTpK4Yg0PHvaVr0TYOJrp9Fzz6Ubu51GY3hs6AU/edit?usp=sharing))
 
 ### How to reach me
 
