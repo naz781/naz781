@@ -16,9 +16,21 @@ Check out my articles on [Medium](https://medium.com/(https://medium.com/@naz781
 
 ### Skills and Experience
 
-* ⚛️ React.js
-* 💻 HTML5, CSS3, JavaScript (ES6+)
-* 👩‍💼 Project Management
+* ⚛️ React.js  
+* 💻 HTML5, CSS3, JavaScript (ES6+)  
+* 🌐 Frontend Frameworks: Bootstrap, Tailwind CSS, Material-UI  
+* 🛠️ Backend: Node.js, Express.js  
+* 🗄️ Databases: MongoDB, MySQL, Firebase, Supabase  
+* ☁️ Cloud & Deployment: Vercel, Netlify, GitHub Pages, Heroku  
+* 🔧 Version Control: Git, GitHub  
+* 👩‍💼 Project Management & Collaboration: Agile, Scrum, Trello, Jira  
+* 📝 Documentation & Writing: Markdown, Notion, Confluence  
+* 🔍 Testing: Jest, React Testing Library  
+* 🧩 State Management: Redux, Context API  
+* 🖌️ UI/UX Design: Figma, Adobe XD  
+* ⚡ Performance & Optimization: Web Vitals, Lighthouse, Responsive Design  
+* 🔐 Authentication & Security: OAuth, JWT, Firebase Auth  
+* 🤖 AI & Automation: ChatGPT API, OpenAI tools, Zapier  
 
 ### Resume
 *📜[resume](https://docs.google.com/document/d/1z4sExTpK4Yg0PHvaVr0TYOJrp9Fzz6Ubu51GY3hs6AU/edit?usp=sharing)
