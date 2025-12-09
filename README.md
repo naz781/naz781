@@ -11,6 +11,9 @@ Passionate Frontend Software Engineer with hands-on experience crafting stunning
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/fatima_naz_a51c3b5fa73475)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fatima-naz-7927a77a/)
 
+### 📝 My Blog
+Check out my articles on [Medium](https://medium.com/(https://medium.com/@naz781))
+
 ### Skills and Experience
 
 * ⚛️ React.js
