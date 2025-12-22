@@ -7,9 +7,9 @@ Passionate Frontend Software Engineer with hands-on experience crafting stunning
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">](https://github.com/naz781)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="dev" height="40">](https://dev.to/fatima_naz_a51c3b5fa73475)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" alt="medium" height="40">](https://medium.com/@YOUR_USERNAME)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">](https://github.com/naz781)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="dev" height="40">](https://dev.to/fatima_naz_a51c3b5fa73475)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" alt="medium" height="40">](https://medium.com/@YOUR_USERNAME)&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fatima-naz-7927a77a/)
 
 
