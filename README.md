@@ -109,13 +109,23 @@ const fatimaSkills = {
 [![Dev.to](https://img.shields.io/badge/Read%20on-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/fatima_naz_a51c3b5fa73475)
 [![Medium](https://img.shields.io/badge/Read%20on-Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@naz781)
 
-**Topics I Write About:**
+## 📝 My Published Articles
 
-🔧 CI/CD for Beginners: Automate Your Code Like a Pro
-💡 9 Beginner Secrets to Efficient Startup Operations
-🛠 Effective Utilization of Virtual Tools for Teams
-📊 Roles of Data in Modern Applications
-🧮 Types of Arrays & Their Uses in Data Structures
+Here are some of the topics I’ve already written about:  
+- 🔧 CI/CD for Beginners: Automate Your Code Like a Pro  
+- 💡 9 Beginner Secrets to Efficient Startup Operations  
+- 🛠 Effective Utilization of Virtual Tools for Teams  
+- 📊 Roles of Data in Modern Applications  
+- 🧮 Types of Arrays & Their Uses in Data Structures
+
+  ## 🚀 Topics I’m Keen to Explore
+
+I’m excited to write about:  
+- 🚀 Frontend Development Best Practices  
+- ⚛️ React.js Tips & Tricks  
+- 🎨 UI/UX Design Patterns  
+- ⚡ Web Performance Optimization  
+- 🤖 AI Integration in Web Apps  
 
 </div>
 
