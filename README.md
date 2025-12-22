@@ -141,7 +141,7 @@ const fatimaSkills = {
 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/naz781)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.fatimanaz.us)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-naz-7927a77a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naz781@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1z4sExTpK4Yg0PHvaVr0TYOJrp9Fzz6Ubu51GY3hs6AU/edit?usp=sharing)
