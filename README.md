@@ -12,10 +12,6 @@ Passionate Frontend Software Engineer with hands-on experience crafting stunning
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" alt="medium" height="40">](https://medium.com/@YOUR_USERNAME)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fatima-naz-7927a77a/)
 
-• GitHub → https://github.com/naz781  
-• Dev.to → https://dev.to/fatima_naz_a51c3b5fa73475  
-• Medium → https://medium.com/@YOUR_USERNAME  
-
 
 ### 📝 My Blog
 Check out my articles on [Medium](https://medium.com/(https://medium.com/@naz781))
