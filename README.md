@@ -1,56 +1,4 @@
 
-## Hi there 👋,I am Fatima Naz
-### Software Engineer
-
-![Design and Development](https://github.com/naz781/naz781/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
-Passionate Frontend Software Engineer with hands-on experience crafting stunning, user-friendly web apps. Expert in React.js, JavaScript (ES6+), HTML5, and CSS3, I bring websites to life with dynamic features and smooth interactions. From building interactive forms and calculators to creating engaging e-commerce pages, I love turning ideas into intuitive, beautiful designs. With a knack for solving problems and working in Agile teams, I'm eager to contribute my skills and creativity to new and exciting projects.
-
-<h3 align="left">Connect with me:</h3>
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">](https://github.com/naz781)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="dev" height="40">](https://dev.to/fatima_naz_a51c3b5fa73475)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" alt="medium" height="40">](https://medium.com/@YOUR_USERNAME)&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fatima-naz-7927a77a/)
-
-
-### 📝 My Blog
-Check out my articles on [Medium](https://medium.com/(https://medium.com/@naz781))
-
-### Skills and Experience
-
-* ⚛️ React.js  
-* 💻 HTML5, CSS3, JavaScript (ES6+)  
-* 🌐 Frontend Frameworks: Bootstrap, Tailwind CSS, Material-UI  
-* 🛠️ Backend: Node.js, Express.js  
-* 🗄️ Databases: MongoDB, MySQL, Firebase, Supabase  
-* ☁️ Cloud & Deployment: Vercel, Netlify, GitHub Pages, Heroku  
-* 🔧 Version Control: Git, GitHub  
-* 👩‍💼 Project Management & Collaboration: Agile, Scrum, Trello, Jira  
-* 📝 Documentation & Writing: Markdown, Notion, Confluence  
-* 🔍 Testing: Jest, React Testing Library  
-* 🧩 State Management: Redux, Context API  
-* 🖌️ UI/UX Design: Figma, Adobe XD  
-* ⚡ Performance & Optimization: Web Vitals, Lighthouse, Responsive Design  
-* 🔐 Authentication & Security: OAuth, JWT, Firebase Auth  
-* 🤖 AI & Automation: ChatGPT API, OpenAI tools, Zapier  
-
-### Resume
-*📜[resume](https://docs.google.com/document/d/1z4sExTpK4Yg0PHvaVr0TYOJrp9Fzz6Ubu51GY3hs6AU/edit?usp=sharing)
-
-### How to reach me
-
-📫 [naz781@gmail.com](mailto:naz781@gmail.com)
-
-
-<!-- Uncomment if you want to display GitHub stats -->
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naz781)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<div align="center">
-  
-<div align="center">
-
 # Hi there 👋, I am Fatima Naz
 
 ### Software Engineer
@@ -78,13 +26,11 @@ Passionate Frontend Software Engineer with hands-on experience crafting stunning
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🛍️ **E-commerce Website** | Full-featured online shopping platform with product catalog, cart, and checkout | React, Node.js, MongoDB |
-| 🤖 **AI Summary App** | Intelligent text summarization tool powered by AI | React, OpenAI API, Express |
-| 📰 **News Webpage** | Dynamic news aggregator with real-time updates | React, News API, CSS3 |
+| 🛍️ **E-commerce Website** | Full-featured online shopping platform with product catalog, cart, and checkout | React, Node.js, CSS, Supabase |
+| 🤖 **AI Summary App** | Intelligent text summarization tool powered by AI | React, OpenAI API, Firebase |
+| 📰 **News Webpage** | Dynamic news aggregator with real-time updates | React, News API, Tailwind, daisyUI |
 | 🍳 **Recipe Website** | Interactive recipe discovery and cooking guide platform | React, Firebase, Material-UI |
 | 👶 **Kids Money Tracker** | Educational app helping children learn financial literacy | React, Local Storage, Tailwind |
-| 💰 **Money Tracker** | Personal finance management application | React, Chart.js, Firebase |
-
 </div>
 
 ---
@@ -124,20 +70,6 @@ Passionate Frontend Software Engineer with hands-on experience crafting stunning
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naz781&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naz781&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naz781&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 💼 Skills and Experience
 
 ```javascript
@@ -146,7 +78,9 @@ const fatimaSkills = {
     core: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3"],
     frameworks: ["Bootstrap", "Tailwind CSS", "Material-UI"],
     stateManagement: ["Redux", "Context API"],
-    testing: ["Jest", "React Testing Library"]
+    testing: ["Jest", "React Testing Library"],
+    animations: ["Framer Motion"],
+    graphics3D: ["Three.js"]
   },
   backend: {
     runtime: "Node.js",
@@ -155,19 +89,17 @@ const fatimaSkills = {
   },
   tools: {
     versionControl: ["Git", "GitHub"],
-    design: ["Figma", "Adobe XD"],
+    design: ["Figma", "Canva"],
     deployment: ["Vercel", "Netlify", "GitHub Pages", "Heroku"],
     projectManagement: ["Agile", "Scrum", "Trello", "Jira"]
   },
   currentlyBuilding: [
     "AI-powered applications",
     "Full-stack e-commerce solutions",
-    "Educational apps for kids",
-    "Personal finance tools"
+    "Chinese Resturant Website"
   ]
 };
 ```
-
 ---
 
 ## 📝 Latest Blog Posts
@@ -178,11 +110,12 @@ const fatimaSkills = {
 [![Medium](https://img.shields.io/badge/Read%20on-Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@naz781)
 
 **Topics I Write About:**
-- 🚀 Frontend Development Best Practices
-- ⚛️ React.js Tips & Tricks
-- 🎨 UI/UX Design Patterns
-- ⚡ Web Performance Optimization
-- 🤖 AI Integration in Web Apps
+
+🔧 CI/CD for Beginners: Automate Your Code Like a Pro
+💡 9 Beginner Secrets to Efficient Startup Operations
+🛠 Effective Utilization of Virtual Tools for Teams
+📊 Roles of Data in Modern Applications
+🧮 Types of Arrays & Their Uses in Data Structures
 
 </div>
 
